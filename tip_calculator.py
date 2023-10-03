@@ -48,4 +48,4 @@ def tip_calculator():
     # TODO: Print an statement telling the user their input is invalid
     
 if __name__ == "__main__": # DO NOT MODIFY
-#    tip_calculator() # DO NOT MODIFY
+          tip_calculator() # DO NOT MODIFY
